@@ -1,12 +1,12 @@
 {
-  "pubspec_version": "1.0.0+3",
-  "version": "0cba218f-20260102201227",
-  "build_time": "20260102201227",
-  "commit_hash": "0cba218f",
-  "build_hash": "17f92025",
-  "timestamp": 1767384747,
+  "pubspec_version": "1.0.1+4",
+  "version": "d32d9ff9-20260107094659",
+  "build_time": "20260107094659",
+  "commit_hash": "d32d9ff9",
+  "build_hash": "1e27da8e",
+  "timestamp": 1767779219,
   "environment": "prod",
   "app": "leaderboard",
   "region": "PV",
-  "updated_at": "2026-01-02T20:12:27Z"
+  "updated_at": "2026-01-07T09:46:59Z"
 }
