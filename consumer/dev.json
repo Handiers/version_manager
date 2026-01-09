@@ -1,11 +1,11 @@
 {
   "pubspec_version": "2.0.5+239",
-  "version": "a79d7a9c-20260109011605",
-  "build_time": "20260109011605",
-  "commit_hash": "a79d7a9c",
-  "build_hash": "68f8f282",
-  "timestamp": 1767921365,
+  "version": "8d058846-20260109023051",
+  "build_time": "20260109023051",
+  "commit_hash": "8d058846",
+  "build_hash": "164a0ce5",
+  "timestamp": 1767925851,
   "environment": "dev",
   "app": "consumer",
-  "updated_at": "2026-01-09T01:16:05Z"
+  "updated_at": "2026-01-09T02:30:51Z"
 }
