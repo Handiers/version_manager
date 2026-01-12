@@ -1,12 +1,12 @@
 {
-  "pubspec_version": "2.0.4+237",
-  "version_name": "2.0.4",
-  "build_number": "237",
-  "commit_hash": "08663613",
-  "build_time": "20251231110909",
-  "timestamp": 1767179349,
+  "pubspec_version": "2.0.5+239",
+  "version_name": "2.0.5",
+  "build_number": "239",
+  "commit_hash": "d5011130",
+  "build_time": "20260112045900",
+  "timestamp": 1768193940,
   "platform": "ios",
   "app": "consumer",
   "force_update": false,
-  "updated_at": "2025-12-31T11:09:09Z"
+  "updated_at": "2026-01-12T04:59:01Z"
 }
