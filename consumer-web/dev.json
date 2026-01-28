@@ -1,10 +1,10 @@
 {
   "version": "0.1.0",
-  "build_version": "79238e4-20260128023909",
-  "build_time": "20260128023909",
-  "commit_hash": "79238e4",
-  "timestamp": 1769567949,
+  "build_version": "69cf312-20260128051547",
+  "build_time": "20260128051547",
+  "commit_hash": "69cf312",
+  "timestamp": 1769577347,
   "environment": "dev",
   "app": "consumer-web",
-  "updated_at": "2026-01-28T02:39:09Z"
+  "updated_at": "2026-01-28T05:15:47Z"
 }
