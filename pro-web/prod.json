@@ -1,0 +1,10 @@
+{
+  "version": "0.1.0",
+  "build_version": "bdb888f-20260220031213",
+  "build_time": "20260220031213",
+  "commit_hash": "bdb888f",
+  "timestamp": 1771557133,
+  "environment": "prod",
+  "app": "pro-web",
+  "updated_at": "2026-02-20T03:12:13Z"
+}
