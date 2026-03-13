@@ -1,12 +1,12 @@
 {
-  "pubspec_version": "3.0.8+306",
+  "pubspec_version": "3.0.8+307",
   "version_name": "3.0.8",
-  "build_number": "306",
-  "commit_hash": "57d98a49",
-  "build_time": "20260313052713",
-  "timestamp": 1773379633,
+  "build_number": "307",
+  "commit_hash": "80282f69",
+  "build_time": "20260313072434",
+  "timestamp": 1773386674,
   "platform": "android",
   "app": "pro",
   "force_update": false,
-  "updated_at": "2026-03-13T05:27:13Z"
+  "updated_at": "2026-03-13T07:24:34Z"
 }
