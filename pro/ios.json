@@ -1,12 +1,12 @@
 {
-  "pubspec_version": "3.0.8+323",
+  "pubspec_version": "3.0.8+325",
   "version_name": "3.0.8",
-  "build_number": "323",
-  "commit_hash": "69854cd2",
-  "build_time": "20260315165053",
-  "timestamp": 1773593453,
+  "build_number": "325",
+  "commit_hash": "435e20b7",
+  "build_time": "20260315193329",
+  "timestamp": 1773603209,
   "platform": "ios",
   "app": "pro",
   "force_update": false,
-  "updated_at": "2026-03-15T16:50:54Z"
+  "updated_at": "2026-03-15T19:33:30Z"
 }
