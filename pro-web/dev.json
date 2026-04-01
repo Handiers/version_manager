@@ -1,10 +1,10 @@
 {
   "version": "0.1.0",
-  "build_version": "d581a4a-20260401051301",
-  "build_time": "20260401051301",
-  "commit_hash": "d581a4a",
-  "timestamp": 1775020381,
+  "build_version": "3f38995-20260401060835",
+  "build_time": "20260401060835",
+  "commit_hash": "3f38995",
+  "timestamp": 1775023715,
   "environment": "dev",
   "app": "pro-web",
-  "updated_at": "2026-04-01T05:13:01Z"
+  "updated_at": "2026-04-01T06:08:35Z"
 }
