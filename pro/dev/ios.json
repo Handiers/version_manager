@@ -1,0 +1,13 @@
+{
+  "pubspec_version": "3.2.71-rc+467",
+  "version_name": "3.2.71-rc",
+  "build_number": "467",
+  "commit_hash": "10cd29e",
+  "build_time": "20260609073122",
+  "timestamp": 1780990282,
+  "platform": "ios",
+  "app": "pro",
+  "environment": "dev",
+  "force_update": false,
+  "updated_at": "2026-06-09T07:31:22Z"
+}
