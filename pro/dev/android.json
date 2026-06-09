@@ -8,6 +8,6 @@
   "platform": "android",
   "app": "pro",
   "environment": "dev",
-  "force_update": false,
+  "force_update": true,
   "updated_at": "2026-06-09T22:10:04Z"
 }
