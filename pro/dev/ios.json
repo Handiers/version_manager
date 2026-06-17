@@ -1,13 +1,13 @@
 {
-  "pubspec_version": "3.2.84-rc+480",
-  "version_name": "3.2.84-rc",
-  "build_number": "480",
-  "commit_hash": "fb93003",
-  "build_time": "20260617000945",
-  "timestamp": 1781654985,
+  "pubspec_version": "3.2.85-rc+481",
+  "version_name": "3.2.85-rc",
+  "build_number": "481",
+  "commit_hash": "1064c8c",
+  "build_time": "20260617020226",
+  "timestamp": 1781661746,
   "platform": "ios",
   "app": "pro",
   "environment": "dev",
   "force_update": false,
-  "updated_at": "2026-06-17T00:09:46Z"
+  "updated_at": "2026-06-17T02:02:26Z"
 }
