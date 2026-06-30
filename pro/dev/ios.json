@@ -1,13 +1,13 @@
 {
-  "pubspec_version": "3.2.100-rc+496",
-  "version_name": "3.2.100-rc",
-  "build_number": "496",
-  "commit_hash": "97a253d",
-  "build_time": "20260627002858",
-  "timestamp": 1782520138,
+  "pubspec_version": "3.2.102-rc+498",
+  "version_name": "3.2.102-rc",
+  "build_number": "498",
+  "commit_hash": "6a8097e",
+  "build_time": "20260630065538",
+  "timestamp": 1782802538,
   "platform": "ios",
   "app": "pro",
   "environment": "dev",
   "force_update": false,
-  "updated_at": "2026-06-27T00:28:59Z"
+  "updated_at": "2026-06-30T06:55:39Z"
 }
