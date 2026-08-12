@@ -1,13 +1,13 @@
 {
-  "pubspec_version": "3.2.139-rc+536",
-  "version_name": "3.2.139-rc",
-  "build_number": "536",
-  "commit_hash": "923e619",
-  "build_time": "20260812044315",
-  "timestamp": 1786509795,
+  "pubspec_version": "3.2.140-rc+537",
+  "version_name": "3.2.140-rc",
+  "build_number": "537",
+  "commit_hash": "6830576",
+  "build_time": "20260812055029",
+  "timestamp": 1786513829,
   "platform": "android",
   "app": "pro",
   "environment": "dev",
   "force_update": false,
-  "updated_at": "2026-08-12T04:43:15Z"
+  "updated_at": "2026-08-12T05:50:30Z"
 }
