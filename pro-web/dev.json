@@ -1,10 +1,10 @@
 {
   "version": "0.1.130",
-  "build_version": "eca0504-20260917192835",
-  "build_time": "20260917192835",
-  "commit_hash": "eca0504",
-  "timestamp": 1789673315,
+  "build_version": "0132eb9-20260918075646",
+  "build_time": "20260918075646",
+  "commit_hash": "0132eb9",
+  "timestamp": 1789718206,
   "environment": "dev",
   "app": "pro-web",
-  "updated_at": "2026-09-17T19:28:36Z"
+  "updated_at": "2026-09-18T07:56:46Z"
 }
