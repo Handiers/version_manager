@@ -1,10 +1,10 @@
 {
   "version": "0.1.130",
-  "build_version": "0132eb9-20260918075646",
-  "build_time": "20260918075646",
-  "commit_hash": "0132eb9",
-  "timestamp": 1789718206,
+  "build_version": "cada368-20260918184656",
+  "build_time": "20260918184656",
+  "commit_hash": "cada368",
+  "timestamp": 1789757216,
   "environment": "dev",
   "app": "pro-web",
-  "updated_at": "2026-09-18T07:56:46Z"
+  "updated_at": "2026-09-18T18:46:57Z"
 }
