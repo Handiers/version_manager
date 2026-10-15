@@ -1,13 +1,13 @@
 {
-  "pubspec_version": "3.2.201-rc+601",
-  "version_name": "3.2.201-rc",
-  "build_number": "601",
-  "commit_hash": "75a4d1f",
-  "build_time": "20261009071811",
-  "timestamp": 1791530291,
+  "pubspec_version": "3.2.205-rc+606",
+  "version_name": "3.2.205-rc",
+  "build_number": "606",
+  "commit_hash": "90d7176",
+  "build_time": "20261015155616",
+  "timestamp": 1792079776,
   "platform": "ios",
   "app": "pro",
   "environment": "dev",
   "force_update": false,
-  "updated_at": "2026-10-09T07:18:11Z"
+  "updated_at": "2026-10-15T15:56:17Z"
 }
